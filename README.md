@@ -1,6 +1,6 @@
 # Resources
 
-# Resources: GIS and Remote Sensing in R 
+
 https://mgimond.github.io/Spatial/map-algebra.html
 
 #Lasso and ridge regression
